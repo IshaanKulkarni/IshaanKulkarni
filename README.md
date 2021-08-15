@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @IshaanKulkarni, I am a UG fresher studying at the Department of Computer Science and Engineering @ Indian Institute of Technology (IIT) Tirupati.
-- 👀 I’m interested in Software Engineering and Natural Language Processing(NLP).
-- 🌱 I’m currently learning NLP and Web Development.
-- 💞️ I’m looking to collaborate on any thing that can help me learn.
 - 📫 How to reach me 
 --On email @ cs20b018@iittp.ac.in
 
