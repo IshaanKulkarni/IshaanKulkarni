@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @IshaanKulkarni, I am a UG sophomore studying in the Department of Computer Science and Engineering @ Indian Institute of Technology (IIT) Tirupati.
+- 👋 Hi, I’m @IshaanKulkarni, I am a UG junior studying in the Department of Computer Science and Engineering @ Indian Institute of Technology (IIT) Tirupati.
+- Currently working on deep neural networks and exploring the transformer architectures.
 - 📫 How to reach me 
 --On email @ cs20b018@iittp.ac.in or imkulkarni67@gmail.com
 
